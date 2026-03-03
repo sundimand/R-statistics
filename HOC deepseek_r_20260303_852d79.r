@@ -22,6 +22,7 @@ cat("========================================\n")
 cat("TAHAP 1: INPUT DATA\n")
 cat("========================================\n\n")
 
+# Link repository data https://zenodo.org/records/18850123
 dat <- read_csv("dataDisertasifull.csv", show_col_types = FALSE)
 
 dat_use <- dat %>%
