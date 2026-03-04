@@ -3,6 +3,7 @@
 # Ref: 
 # Sarsted et al 2019 (https://www.sciencedirect.com/science/article/abs/pii/S1441358219301223), 
 # Hair et al. (2017, 2021)
+# https://researchwithfawad.com/index.php/lp-courses/seminr-lecture-series/seminr-package-higher-order-analysis-ref-ref/
 # ============================================================================
 
 # 0. PERSIAPAN ----
